@@ -14,10 +14,6 @@ Ivamilton aqui bruh
 
 **Estudo de Linguagens e Comunicação**
 
-![](https://komarev.com/ghpvc/?kibinho7=iuricode&color=006bed)
-
-<h3>Minhas Skills</h3>
-
 **Aplicações e dados**
 
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
