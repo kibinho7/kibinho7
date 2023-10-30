@@ -2,7 +2,7 @@ Ivamilton aqui bruh
 
 **Olá Seja Bem vindo ao meu perfil!!**
 
-_- _Estudante de TI_
+- _Estudante de TI_
 
 - _Jogador Profissional de Naruto Online_
 
