@@ -1,5 +1,3 @@
-Ivamilton aqui bruh
-
 **Olá Seja Bem vindo ao meu perfil!!**
 
 - _Estudante de TI_
