@@ -14,7 +14,7 @@ Ivamilton aqui bruh
 
 **Estudo de Linguagens e Comunicação**
 
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+![](https://komarev.com/ghpvc/?kibinho7=iuricode&color=006bed)
 
 <h3>Minhas Skills</h3>
 
