@@ -1,16 +1,27 @@
 Ivamilton aqui bruh
 
-<!--
-**kibinho7/kibinho7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Olá Seja Bem vindo ao meu perfil!!**
 
-Here are some ideas to get you started:
+_- _Estudante de TI_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- _Jogador Profissional de Naruto Online_
+
+- _Lindo, bonito e gostoso_
+
+- _Estudante_ _de_ _ADS_( _Análise_ _e_ _desenvolvimento de sistemas_ )
+
+- _Futuro bilionário_
+
+**Estudo de Linguagens e Comunicação**
+
+- CSS
+
+- HTML
+
+- PYTHON
+
+- BACK AND
+
+- FRONT AND
+
+- C++
