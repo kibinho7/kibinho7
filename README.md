@@ -16,7 +16,7 @@ Sou técnico em informática, apaixonado por desenvolvimento web e atualmente es
 - **Flask**: Construindo pequenos projetos de back-end para expandir meu conhecimento.
 - **Desenvolvimento Web**: Continuo aprendendo novas práticas e ferramentas para melhorar minha experiência como front-end.
 
-## 📫 Como me encontrar?
+## ![image](https://github.com/user-attachments/assets/89c906e1-00ec-4baf-a75e-b98ded778202) Como me encontrar?
 
 <div>
 <a href="https://www.instagram.com/kibinho7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -32,20 +32,7 @@ Sou técnico em informática, apaixonado por desenvolvimento web e atualmente es
 - Explorar novas ferramentas e frameworks no desenvolvimento web.
 - Participar de mais projetos open-source.
 
-## 🤝 Contribuições
 
-Se você está interessado em colaborar em algum dos meus projetos ou tem sugestões, estou sempre aberto a novas ideias!
 
----
 
-⚡ **Curiosidades**:
-
-- Sou fascinado por futebol, games e filmes.
-- Quando não estou programando, gosto de fazer churrasco, pescar e jogar conversa fora.
-
----
-
-### 🐍 Python
-
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 
