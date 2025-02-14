@@ -1,43 +1,40 @@
-**Olá Seja Bem vindo ao meu perfil!!**
+# Olá, eu sou [Ivamilton Júnior] 👋
 
-- _Estudante de TI_
+[![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
 
-- _Jogador Profissional de Naruto Online_
+Sou um desenvolvedor apaixonado por [área de interesse, ex: software, desenvolvimento web, etc]. Aqui você vai encontrar meus projetos, experiências e algumas curiosidades sobre mim.
 
-- _Lindo, bonito e gostoso_
+## 🚀 Tecnologias e Ferramentas
 
-- _Estudante_ _de_ _ADS_( _Análise_ _e_ _desenvolvimento de sistemas_ )
+Eu sou proficiente em:
 
-- _Futuro bilionário_
-
-**Estudo de Linguagens e Comunicação**
-
-**Aplicações e dados**
-
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+- **Linguagens**: Python, JavaScript, C++, Java
+- **Frameworks**: React, Node.js, Django, Flask
+- **Banco de Dados**: MySQL, PostgreSQL, MongoDB
+- **Outros**: Git, Docker, Kubernetes
 
 
-**DevOps**
+## 📫 Como me encontrar?
 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+- Email: [seu-email@example.com](mailto:seu-email@example.com)
+- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- Twitter: [@seu-usuario](https://twitter.com/seu-usuario)
+- Website: [seu-website.com](https://seu-website.com)
 
+## 🎯 Objetivos de Aprendizado
 
-**Ferramentas de desenvolvimento**
+- Melhorar minhas habilidades em [habilidade que deseja melhorar].
+- Contribuir para mais projetos open-source.
+- Aprender mais sobre [tópico de interesse, ex: inteligência artificial, machine learning, etc].
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+## 🤝 Contribuições
 
+Sinta-se à vontade para colaborar em meus projetos! Se você encontrar algum erro ou tiver sugestões, me avise!
 
-<br/>
+---
 
-<a href="https://github.com/iuricode">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
-</a>
+⚡ **Curiosidades**:
 
-<h3>Onde me encontrar</h3>
-[![Gmail Badge](https://img.shields.io/badge/-ivamilton.junior@aluno.ce.gov.br-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+- Adoro aprender novas linguagens de programação.
+- Gosto de [atividade que você gosta, ex: jogar videogame, tocar guitarra, viajar, etc].
+
