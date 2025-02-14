@@ -1,4 +1,4 @@
-# Olá, eu sou [Ivamilton Júnior] 👋
+# Olá, eu sou Ivamilton Júnior 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/seu-usuario?label=Follow&style=social)](https://github.com/seu-usuario)
 
@@ -22,8 +22,7 @@ Eu sou proficiente em:
 
 - 📧 Email: [seu-email@example.com](mailto:seu-email@example.com)
 - 🔗 LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- 🐦 Twitter: [@seu-usuario](https://twitter.com/seu-usuario)
-- 📸 Instagram: [@seu-instagram](https://instagram.com/seu-instagram)
+- https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white Instagram: [@kibinho7](https://www.instagram.com/kibinho7/)
 - 🌐 Website: [seu-website.com](https://seu-website.com)
 
 ## 🎯 Objetivos de Aprendizado
