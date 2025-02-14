@@ -16,7 +16,7 @@ Sou técnico em informática, apaixonado por desenvolvimento web e atualmente es
 - **Flask**: Construindo pequenos projetos de back-end para expandir meu conhecimento.
 - **Desenvolvimento Web**: Continuo aprendendo novas práticas e ferramentas para melhorar minha experiência como front-end.
 
-## ![image](https://github.com/user-attachments/assets/89c906e1-00ec-4baf-a75e-b98ded778202) Como me encontrar?
+## 📍 Como me encontrar?
 
 <div>
 <a href="https://www.instagram.com/kibinho7/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
